@@ -3,7 +3,6 @@ public class Mercedes extends Car {
 
     public Mercedes(String model, double volume, int createdDate, int numberOfDoors) {
         super(model, volume, createdDate, numberOfDoors);
-        this.sMers = sMers;
     }
 
     public void getInfoCar() {
